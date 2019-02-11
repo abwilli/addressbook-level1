@@ -36,6 +36,7 @@ import java.util.Set;
  **/
 public class AddressBook {
 
+    private static final String UPDATE = "change to document";
     /**
      * Default file path used if the user doesn't provide the file name.
      */
